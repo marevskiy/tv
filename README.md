@@ -1,14 +1,20 @@
-MiTV preview 2.7-mztu1.3 / versionCode 12
+# MiTV-MZTU1 — проверенная конфигурация
 
-Latest APK: MiTV-MZTU1-2.7-mztu1.3.apk
-Latest source: MiTV-MZTU1-source-2.7-mztu1.3.zip
+Рекомендуемая версия: **2.7-mztu1.2 (versionCode 11)**.
 
-Adds a normal BOOT_COMPLETED receiver that requests our Home only when still selected as default.
-No key interception, accessibility helper, background service or vendor component changes.
-Android 14 rejected changing PatchWall BannerLogoB from shell; that component remains unchanged.
-PatchWall is retained for its InputSourcePopupActivity and other services.
-279 tests passed, 0 failures/errors/skips; lint/release/signature verification passed.
-Reboot behavior still needs actual TV verification; a boot launch request does not prove final focus.
-The TV already confirmed six-app dock, real MET Norway weather, USD quotes, nature image, physical Home and other controls.
-275+ earlier checks, source attribution and build instructions are in the source ZIP.
-Older downloads/photos/checksums remain available.
+- APK: [MiTV-MZTU1-2.7-mztu1.2.apk](MiTV-MZTU1-2.7-mztu1.2.apk)
+- Итоговые исходники: [MiTV-MZTU1-source-2.7-mztu1.2-final.zip](MiTV-MZTU1-source-2.7-mztu1.2-final.zip)
+- [Памятка по использованию, сборке и восстановлению](TV-GUIDE-RU.md)
+- [Контрольные суммы SHA-256](SHA256SUMS.txt)
+
+На ТВ подтверждены погода MET Norway, USD-курсы CoinGecko, природный фон,
+запуск приложений, физическая кнопка Home, громкость, Источники и Настройки.
+После отключения PatchWall главный экран загрузился автоматически после перезагрузки.
+Отладка выключена; пользователь подтвердил отказ подключения к TCP 5555.
+275 тестов прошли без ошибок/пропусков, lint без ошибок; подпись APK проверена.
+Почасовая ротация проверена тестами; часового наблюдения на ТВ не проводилось.
+
+Версия 2.7-mztu1.3 — архивный эксперимент с boot receiver; устанавливать её для этой
+конфигурации не требуется. Итоговый исходный код соответствует стабильной версии 11,
+без boot receiver. Все предыдущие APK/исходники/фотографии сохранены.
+Ключи, резервные копии устройства и личные данные здесь не публикуются.
