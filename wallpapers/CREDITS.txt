@@ -1,0 +1,5 @@
+Nature photo cache for this TV launcher. Original photographs: Unsplash.
+License: https://unsplash.com/license
+
+Photo identifiers and original download URLs are recorded in sources.json.
+No photographer endorsement is implied.

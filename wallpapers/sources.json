@@ -1,0 +1,32 @@
+[
+  {
+    "file": "wallpapers/photo-1470770841072-f978cf4d019e.jpg",
+    "sha256": "c1c7f66c5d34a1205c75bbc61ea0e762828939cd446feb8dcd8b13d20207e3d1",
+    "source": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  },
+  {
+    "file": "wallpapers/photo-1464822759023-fed622ff2c3b.jpg",
+    "sha256": "d6f6f2a9e17842391135b956029dd7686abd7aab3c870a17a4127333b18774e1",
+    "source": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  },
+  {
+    "file": "wallpapers/photo-1441974231531-c6227db76b6e.jpg",
+    "sha256": "eb6f81b403b239a2b44c2674800b1657e1c37bb084103cade4f837100f10d752",
+    "source": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  },
+  {
+    "file": "wallpapers/photo-1501785888041-af3ef285b470.jpg",
+    "sha256": "9ef387f675634236defe49f6edac398fd6928667318971c727e1864d2c7d46a3",
+    "source": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  },
+  {
+    "file": "wallpapers/photo-1433086966358-54859d0ed716.jpg",
+    "sha256": "3cc6264845548e52db5dee3f0397a97093dd6797de94c46a871e437a21fcb39c",
+    "source": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  },
+  {
+    "file": "wallpapers/photo-1469474968028-56623f02e42e.jpg",
+    "sha256": "03d71220cea91055b81d77da07ac662c21386cce70e4125c30537d90a35e53e2",
+    "source": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?fm=jpg&fit=crop&w=3840&h=2160&q=80"
+  }
+]
